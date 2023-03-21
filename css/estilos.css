@@ -17,6 +17,32 @@ padding: 3rem 2rem;
 border-radius: 15px ;
 }
 
+#boton_color {
+    border-radius: 25px;
+    border-color: rgba(128, 128, 128, 0.76);
+    height: 30px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#boton_color:hover{
+    box-shadow: 0 0.5rem 0.8rem rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+}
+
+#boton_color2 {
+    border-radius: 25px;
+    border-color: rgba(128, 128, 128, 0.76);
+    height: 30px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#boton_color2:hover{
+    box-shadow: 0 0.5rem 0.8rem rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+}
+
 header h1 {
     font-size: 4rem;
     text-align: center;
